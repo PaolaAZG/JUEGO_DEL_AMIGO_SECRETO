@@ -63,9 +63,13 @@ Fue desarrollado con HTML, CSS Y JavaScript, y es compatible con móviles📱, t
 
 Comenzar ahora 👉 https://paolaazg.github.io/NUMERO_SECRETO/
 
+
 // 🎉🎈🎊 Disfruta del juego //
 
+
+
 > 💌 Hecho con ❤️ por *PaolaAZG* 💌
+
 
 
 
