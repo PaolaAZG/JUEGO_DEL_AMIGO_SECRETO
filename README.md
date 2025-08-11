@@ -47,7 +47,7 @@ Fue desarrollado con HTML, CSS Y JavaScript, y es compatible con móviles📱, t
 
 ## ✅ COMO JUGAR ...
 
-1️⃣ Ingresa ▶️ al siguiente enlace: https://paolaazg.github.io/NUMERO_SECRETO/
+1️⃣ Ingresa ▶️ al siguiente enlace: https://paolaazg.github.io/JUEGO_DEL_AMIGO_SECRETO/
 
 2️⃣ Escribe ✍️ el nombre de cada amigo en el campo de texto.
 
@@ -61,7 +61,7 @@ Fue desarrollado con HTML, CSS Y JavaScript, y es compatible con móviles📱, t
 
 
 
-Comenzar ahora 👉 https://paolaazg.github.io/NUMERO_SECRETO/
+Comenzar ahora 👉 https://paolaazg.github.io/JUEGO_DEL_AMIGO_SECRETO/
 
 
 // 🎉🎈🎊 Disfruta del juego //
@@ -69,6 +69,7 @@ Comenzar ahora 👉 https://paolaazg.github.io/NUMERO_SECRETO/
 
 
 > 💌 Hecho con ❤️ por *PaolaAZG* 💌
+
 
 
 
