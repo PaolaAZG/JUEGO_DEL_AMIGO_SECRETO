@@ -63,10 +63,12 @@ Fue desarrollado con HTML, CSS Y JavaScript, y es compatible con móviles📱, t
 
 Comenzar ahora 👉 https://paolaazg.github.io/JUEGO_DEL_AMIGO_SECRETO/
 
+<img src="imagenes/Captura de pantalla 2025-08-10 205828.png">
+
 
 // 🎉🎈🎊 Disfruta del juego //
 
-
+<img src="imagenes/Captura de pantalla 2025-08-10 205848.png.png">
 
 > 💌 Hecho con ❤️ por *PaolaAZG* 💌
 
