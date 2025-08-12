@@ -68,7 +68,7 @@ Comenzar ahora 👉 https://paolaazg.github.io/JUEGO_DEL_AMIGO_SECRETO/
 
 // 🎉🎈🎊 Disfruta del juego //
 
-<img src="imagenes/pantallas_pequeñas.png>
+<img src="imagenes/pantallas_pequeñas.png">
 
 > 💌 Hecho con ❤️ por *PaolaAZG* 💌
 
